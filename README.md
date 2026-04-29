@@ -72,4 +72,4 @@ This project started as my graduation thesis — I wanted to build something tha
 ## 👩‍💻 Author
 
 **Karina Kuralionak** — Aspiring Product Analyst  
-[GitHub](https://github.com/KQnok) · [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/KQnok) · [LinkedIn](www.linkedin.com/in/karyna-kurolenok-9a21182b7)
